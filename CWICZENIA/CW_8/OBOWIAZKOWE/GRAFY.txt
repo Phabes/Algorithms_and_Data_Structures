@@ -1,0 +1,6 @@
+ZAD 1
+Przechodzimy DFS'em i jak przetworzymy jakiś wierzchołek, to możemy go usunąć, a wraz z nim wszystkie krawędzie z niego wychodzące
+ZAD 2
+- BFS - dla każdego wierzchołka odpalamy 2 fale BFS'a i jeśli istnieje wierzchołek w drugiej fali, który ma co najmniej 2 ścieżki,
+a jeśli nie ma takiego wierzchołka w drugiej fali, to sprawdzamy każdy z każdym w pierwszej fali
+- DFS - jak będziemy mieć 4 wierzchołki
